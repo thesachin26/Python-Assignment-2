@@ -2,8 +2,6 @@
 
 # Module 3: Control Structures in Python
 
-This repository contains a **single Python program** that performs two tasks using control structures (`if-else` and `for` loop`).
-
 ---
 
 ## 📜 Program Description
